@@ -3,13 +3,16 @@
 TG-CLI based broadcasting bot!
 
 ## Install
-```bash
+```
+git clone https://github.com/MohammadSZ/tabchi.git
+cd tabchi
+bash
 chmod 777 install.sh
 ./install.sh
 ```
 ## Create a bot!
 ```
-root@iTeam:~# python3 creator.py
+python3 creator.py
 Enter Tabchi ID (1,2,3,4,5,...) : 1
 Enter Full Sudo ID : 122774063
 Done!
