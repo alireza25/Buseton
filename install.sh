@@ -10,6 +10,14 @@ sudo apt-get install lua-sec
 sudo apt-get install lua-expat 
 sudo apt-get install libevent-dev 
 sudo apt-get install make 
+sudo apt-get install g++-4.7 c++-4.7
+sudo apt-get update		
+sudo apt-get upgrade
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+sudo apt-get install lua-lgi
+sudo apt-get install libnotify-dev
+sudo apt-get install screen
+sudo apt-get install tmux
 sudo apt-get install unzip 
 sudo apt-get install git 
 sudo apt-get install redis-server 
