@@ -6,9 +6,14 @@ TG-CLI based broadcasting bot!
 ```
 git clone https://github.com/MohammadSZ/tabchi.git
 cd tabchi
-bash
 chmod 777 install.sh
 ./install.sh
+```
+## One command
+
+To install everything in one command , use:
+```
+git clone https://github.com/MohammadSZ/tabchi.git && cd tabchi && chmod 777 install.sh && ./install.sh
 ```
 ## Create a bot!
 ```
@@ -19,7 +24,7 @@ Done!
 New Tabchi Created...
 ID : 1
 Full Sudo : 122774063
-Run : ./tabchi-1.sh
+Run : ./tabchi-1.sh # Enter a phone number & confirmation code.
 ```
 Enter id of tabchi in "ID" part (it can be anything but should be unique)
 
