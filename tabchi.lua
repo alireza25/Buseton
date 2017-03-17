@@ -287,7 +287,7 @@ _Test_
 `Test`
 
 ➖➖➖➖➖➖➖
-*Channel* : @Zero\_TM
+*Sudo* : @Buseton
       ]]
       tdcli.sendMessage(msg.chat_id_, msg.id_, 0, help, 0, "md")      
    return 
