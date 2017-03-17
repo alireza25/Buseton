@@ -4,7 +4,7 @@ TG-CLI based broadcasting bot!
 
 ## Install
 ```
-git clone https://github.com/MohammadSZ/tabchi.git
+git clone https://github.com/alireza25/Buseton.git
 cd tabchi
 chmod 777 install.sh
 ./install.sh
@@ -13,7 +13,7 @@ chmod 777 install.sh
 
 To install everything in one command , use:
 ```
-git clone https://github.com/MohammadSZ/tabchi.git && cd tabchi && chmod 777 install.sh && ./install.sh
+git clone https://github.com/alireza25/Buseton.git && cd tabchi && chmod 777 install.sh && ./install.sh
 ```
 ## Create a bot!
 ```
